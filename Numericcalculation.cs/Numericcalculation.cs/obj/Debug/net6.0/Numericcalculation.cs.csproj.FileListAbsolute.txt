@@ -1,0 +1,15 @@
+C:\Users\lanco\source\repos\Numericcalculation.cs\Numericcalculation.cs\bin\Debug\net6.0\Numericcalculation.cs.exe
+C:\Users\lanco\source\repos\Numericcalculation.cs\Numericcalculation.cs\bin\Debug\net6.0\Numericcalculation.cs.deps.json
+C:\Users\lanco\source\repos\Numericcalculation.cs\Numericcalculation.cs\bin\Debug\net6.0\Numericcalculation.cs.runtimeconfig.json
+C:\Users\lanco\source\repos\Numericcalculation.cs\Numericcalculation.cs\bin\Debug\net6.0\Numericcalculation.cs.dll
+C:\Users\lanco\source\repos\Numericcalculation.cs\Numericcalculation.cs\bin\Debug\net6.0\Numericcalculation.cs.pdb
+C:\Users\lanco\source\repos\Numericcalculation.cs\Numericcalculation.cs\obj\Debug\net6.0\Numericcalculation.cs.csproj.AssemblyReference.cache
+C:\Users\lanco\source\repos\Numericcalculation.cs\Numericcalculation.cs\obj\Debug\net6.0\Numericcalculation.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lanco\source\repos\Numericcalculation.cs\Numericcalculation.cs\obj\Debug\net6.0\Numericcalculation.cs.AssemblyInfoInputs.cache
+C:\Users\lanco\source\repos\Numericcalculation.cs\Numericcalculation.cs\obj\Debug\net6.0\Numericcalculation.cs.AssemblyInfo.cs
+C:\Users\lanco\source\repos\Numericcalculation.cs\Numericcalculation.cs\obj\Debug\net6.0\Numericcalculation.cs.csproj.CoreCompileInputs.cache
+C:\Users\lanco\source\repos\Numericcalculation.cs\Numericcalculation.cs\obj\Debug\net6.0\Numericcalculation.cs.dll
+C:\Users\lanco\source\repos\Numericcalculation.cs\Numericcalculation.cs\obj\Debug\net6.0\refint\Numericcalculation.cs.dll
+C:\Users\lanco\source\repos\Numericcalculation.cs\Numericcalculation.cs\obj\Debug\net6.0\Numericcalculation.cs.pdb
+C:\Users\lanco\source\repos\Numericcalculation.cs\Numericcalculation.cs\obj\Debug\net6.0\Numericcalculation.cs.genruntimeconfig.cache
+C:\Users\lanco\source\repos\Numericcalculation.cs\Numericcalculation.cs\obj\Debug\net6.0\ref\Numericcalculation.cs.dll

@@ -1,0 +1,15 @@
+C:\Users\lanco\source\repos\squareArea.cs\squareArea.cs\bin\Debug\net6.0\squareArea.cs.exe
+C:\Users\lanco\source\repos\squareArea.cs\squareArea.cs\bin\Debug\net6.0\squareArea.cs.deps.json
+C:\Users\lanco\source\repos\squareArea.cs\squareArea.cs\bin\Debug\net6.0\squareArea.cs.runtimeconfig.json
+C:\Users\lanco\source\repos\squareArea.cs\squareArea.cs\bin\Debug\net6.0\squareArea.cs.dll
+C:\Users\lanco\source\repos\squareArea.cs\squareArea.cs\bin\Debug\net6.0\squareArea.cs.pdb
+C:\Users\lanco\source\repos\squareArea.cs\squareArea.cs\obj\Debug\net6.0\squareArea.cs.csproj.AssemblyReference.cache
+C:\Users\lanco\source\repos\squareArea.cs\squareArea.cs\obj\Debug\net6.0\squareArea.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lanco\source\repos\squareArea.cs\squareArea.cs\obj\Debug\net6.0\squareArea.cs.AssemblyInfoInputs.cache
+C:\Users\lanco\source\repos\squareArea.cs\squareArea.cs\obj\Debug\net6.0\squareArea.cs.AssemblyInfo.cs
+C:\Users\lanco\source\repos\squareArea.cs\squareArea.cs\obj\Debug\net6.0\squareArea.cs.csproj.CoreCompileInputs.cache
+C:\Users\lanco\source\repos\squareArea.cs\squareArea.cs\obj\Debug\net6.0\squareArea.cs.dll
+C:\Users\lanco\source\repos\squareArea.cs\squareArea.cs\obj\Debug\net6.0\refint\squareArea.cs.dll
+C:\Users\lanco\source\repos\squareArea.cs\squareArea.cs\obj\Debug\net6.0\squareArea.cs.pdb
+C:\Users\lanco\source\repos\squareArea.cs\squareArea.cs\obj\Debug\net6.0\squareArea.cs.genruntimeconfig.cache
+C:\Users\lanco\source\repos\squareArea.cs\squareArea.cs\obj\Debug\net6.0\ref\squareArea.cs.dll
