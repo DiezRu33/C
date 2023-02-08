@@ -1,4 +1,0 @@
-Using System;
-
-Namespace NameSpace{
-    }
