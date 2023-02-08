@@ -6,18 +6,22 @@ namespace NameSpace
     {
         static void Main(string[] args)
         {
-            // rectangle values
-            // ading 'f final to calcule;
-            float num_float = 10.1f;
-            int sideA = 20;
-            int sideB = 1;
-            sideB++;
-            sideB++;
+            // read user input;
+            // parsing the float to convert the float to string;
+
+            Console.WriteLine("Enter the side A parameter: ");
+
+            float sideA = float.Parse(Console.ReadLine());
+
+            Console.WriteLine("Enter the side B parameter: ");
+
+            float sideB = float.Parse(Console.ReadLine());
 
             // rectangle area formula is a*b;
             float area = sideA * sideB;
+            float randomNumber = 10.5f;
 
-            Console.WriteLine("The result is: " + area + "\nRandom number: " + num_float);
+            Console.WriteLine("The result is: " + area + "\nRandom number: " + randomNumber);
         }
     }
 }
